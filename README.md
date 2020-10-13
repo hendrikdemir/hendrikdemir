@@ -1,1 +1,1 @@
-[![Directoire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=directoire&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)]
+<h1 align="center"><img src="https://github-readme-stats.vercel.app/api?username=directoire&count_private=true&theme=tokyonight"></h1>
